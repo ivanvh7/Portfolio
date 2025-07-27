@@ -1,4 +1,4 @@
-# 🚀 Mi Portafolio Profesional en GitHub
+# 🚀 Mi Portafolio Personal en GitHub
 
 ## 👋 Sobre Mí
 ¡Hola! Soy **Iván Vega Hernández**, un apasionado del desarrollo web y las tecnologías digitales. Actualmente, me especializo en la creación de aplicaciones web dinámicas y eficientes, combinando diferentes tecnologías para ofrecer soluciones innovadoras.
